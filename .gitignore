@@ -1,0 +1,61 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+
+##############
+
+# Gradle directory
+.gradle/
+build/
+
+# files for the dex VM
+*.dex
+
+#built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+.idea/workspace.xml
+.idea/libraries
+.idea/gradle.xml
+.idea/misc.xml
+
+# OSX files
+.DS_Store
+
+captures/
+# generated files（studio中应该不需要）
+bin/
+gen/
+
+# Windows thumbnail db
+Thumbs.db
